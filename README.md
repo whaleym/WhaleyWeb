@@ -1,2 +1,2 @@
-# whaley-web
-基于React的网站开发示例
+# whaley-personalweb
+基于React的个人网站开发示例
